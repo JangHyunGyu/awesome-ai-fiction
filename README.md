@@ -30,7 +30,7 @@ These tools take a story that already exists — your draft, an imported novel, 
 - [AI Novelist (AIのべりすと)](https://ai-novel.com) — Japanese-language storyteller by Bit192, trained from scratch on a 2 TB+ corpus; usable free in the browser, premium tiers add larger models; generated content is free for commercial use per its terms.
 - [Caiyun Xiaomeng (彩云小梦)](https://if.caiyunai.com) — Chinese continuation writer by Caiyun Tech (web + iOS/Android) with genre styles, world-entry settings, and character chat; free daily quota plus paid membership. Its international edition Dreamily was shut down on 2026-04-21.
 - [Foreverse](https://foreverse.app) — Android reader that imports local TXT/EPUB novels and continues them from any selected passage; every AI continuation is kept as a branch beside the original text. BYOK across 60+ providers with keys stored on-device; also runs SillyTavern-format character cards (see [Roleplay](#tavern-frontends--roleplay-platforms)).
-- [Friends & Fables](https://fables.gg) — Browser tabletop RPG with an AI game master ("Franz") running D&D 5e SRD rules, battlemaps, and persistent lore; free tier with credits for premium narration models; solo or parties up to six players.
+- [Friends & Fables](https://fables.gg) — Browser tabletop RPG with an AI game master ("Franz") running D&D 5e SRD rules, battlemaps, and persistent lore; free tier with a daily turn cap plus subscription tiers; solo or parties up to six players.
 - [NovelAI](https://novelai.net) — Subscription storyteller (free trial only) built on models trained in-house, with lorebook context management and anime-style image generation alongside text.
 - [Perchance AI Story Generator](https://perchance.org/ai-story-generator) — Free, no-login story writer on the Perchance generator platform; generates paragraph by paragraph with user steering; community-built and ad-supported.
 - [StoryLord](https://www.gennovel.app/en) — Web app that imports an existing novel (TXT/DOCX/Markdown) and continues or rewrites it in the original style; credit-based with 100 free credits on signup; supports 9 languages including Chinese.
@@ -42,13 +42,13 @@ Author-facing suites wrap an LLM in the scaffolding long-form fiction needs — 
 - [Biling AI Fiction (笔灵AI小说)](https://ibiling.cn/novel-workbench/) — Chinese web suite with 100+ fiction generators (outlines, settings, characters), a long-form editor, and a hit-novel deconstruction library; free to try, full features behind a membership.
 - [Daizong Writing (岱宗写作)](https://www.daizongxiezuo.com) — Chinese long-form tool billed as a "Cursor for writers": story bible, rolling summaries, and a knowledge graph give the AI project-level memory; clients for Windows/macOS/Android/iOS; bundled default models with custom-model support.
 - [Jieyou Bizha (解忧笔札AI)](https://xs.jieyoupu.com) — Chinese novelist assistant centered on foreshadowing management (unresolved-plot detection, payoff suggestions) plus character dossiers and plot-structure analysis; online membership, or a one-time offline edition (¥980) that runs local models via Ollama.
-- [LocalProse](https://www.localprose.com/en/) — Desktop suite (Windows/macOS/Linux) that ships a bundled local model auto-sized to your RAM; one-time Pro lifetime license instead of a subscription; mobile companion app syncs over local Wi-Fi, no cloud.
-- [Maliang Writing (马良写作)](https://maliangwriter.com) — Chinese web platform where seven specialized agents (supervisor, structure, chapter blueprint, generation, consistency check…) built on LangGraph draft chapters against a shared knowledge graph; free to register, billed in credits by model usage.
+- [LocalProse](https://www.localprose.com/en/) — Desktop suite (Windows/macOS/Linux) whose bundled AI engine adapts to your machine's hardware at first launch; one-time Pro lifetime license instead of a subscription; mobile companion app syncs over local Wi-Fi, no cloud.
+- [Maliang Writing (马良写作)](https://maliangwriter.com) — Chinese web platform where seven specialized agents (supervisor, structure, chapter blueprint, generation, consistency check…) draft chapters against a shared knowledge graph; free to register, billed in credits by model usage.
 - [Novel Mage](https://novelmage.com) — Offline-first desktop app for Windows/macOS sold as a $99.99 one-time lifetime license; AI agent, character codex, and story planner run against local models (Ollama/LM Studio) or your own OpenAI/Anthropic/Google key.
 - [NovelCrafter](https://www.novelcrafter.com) — Subscription writing workspace with bring-your-own-key model connections; its "codex" wiki (characters, places, lore) is injected into prompts automatically.
 - [novelIDE](https://github.com/qq1375828505/novelIDE) — Open-source Android IDE-style app for Chinese web-novel writing: fully offline, an agent with 40+ tools plus sub-agents (outline, anti-water-content, de-AI-flavor), local proofreading, and EPUB export.
 - [Sudowrite](https://www.sudowrite.com) — Subscription fiction-drafting tool with credit-metered generation; its Story Bible holds characters, outline, and style and drives chapter drafting.
-- [Waqu Pinwen (蛙趣拼文)](https://waqupin.com) — Chinese desktop client (Windows/macOS) sold at ¥89/year or a lifetime buyout; connects any OpenAI-compatible API (DeepSeek, local Ollama…); tracks worldbuilding, characters, and foreshadowing, and generates outlines up to 1,000 chapters.
+- [Waqu Pinwen (蛙趣拼文)](https://waqupin.com) — Chinese desktop client sold at ¥89/year (Pro) or a lifetime buyout; connects any OpenAI-compatible API (DeepSeek, local Ollama…); tracks worldbuilding, characters, and foreshadowing, and generates outlines up to 1,000 chapters.
 
 ## Tavern Frontends & Roleplay Platforms
 
@@ -74,21 +74,21 @@ Author-facing suites wrap an LLM in the scaffolding long-form fiction needs — 
 
 ## AI Companions
 
-Companion apps optimize for a persistent relationship rather than one-off scenes: long-term memory, proactive messages, voice calls, selfies, and affection systems. Replika (2017) defined the category; Kindroid and Nomi compete on memory depth in the West; in China, MiniMax's 星野 (Talkie internationally), ByteDance's 猫箱, and Yuewen-backed 筑梦岛 occupy the same niche with card-collecting monetization.
+Companion apps optimize for a persistent relationship rather than one-off scenes: long-term memory, proactive messages, voice calls, selfies, and affection systems. Replika (2017) defined the category; Kindroid and Nomi compete on memory depth in the West; in China, MiniMax's 星野 (Talkie internationally), ByteDance's 猫箱, and Yuewen-backed 筑梦岛 occupy the same niche.
 
 - [Kindroid](https://kindroid.ai) — Companion app (web/iOS/Android) with persistent memory, voice calls, and AI selfies; subscription-based.
 - [Maoxiang (猫箱)](https://maoxiangai.com) — ByteDance's Chinese roleplay/companion app built on its Doubao models; iOS/Android; free with a membership subscription that adds a smarter mode and longer voice calls.
 - [Nomi](https://nomi.ai) — Companion app whose marketed focus is long-term memory and group chats; free tier plus subscription.
 - [Replika](https://replika.com) — Launched in 2017, one of the earliest mainstream AI companions; avatar-based, freemium with a Pro subscription.
-- [Talkie](https://www.talkie-ai.com) — International edition of MiniMax's Xingye; free to use, monetized through a Talkie+ subscription and collectible "Soul Cards"; the iOS listing is titled "Talkie Lab", and the web version stays available during app-store removals.
+- [Talkie](https://www.talkie-ai.com) — International edition of MiniMax's Xingye; free to use, monetized through a Talkie+ subscription and collectible "Soul Cards"; after the original app's US App Store removal, the current iOS listing is titled "Talkie Lab".
 - [Xingye (星野)](https://www.xingyeai.com) — MiniMax's Chinese companion/roleplay community app (mobile-only, no web chat); users create and share agents with custom persona, voice, and appearance.
-- [Zhumengdao (筑梦岛)](https://zhumengdao.com) — Chinese companion app from the Yuewen (阅文) ecosystem; custom "dream companion" characters, multi-character group chats, and scenario "small theater" play; iOS/Android plus a WeChat mini-program.
+- [Zhumengdao (筑梦岛)](https://zhumengdao.com) — Chinese companion app from the Yuewen (阅文) ecosystem, operated by Shanghai Zhumengdao AI Technology; custom "dream companion" characters, multi-character group chats, and scenario "small theater" play; iOS/Android.
 
 ## Audiobooks & TTS
 
 Fiction listening splits into commercial reader apps and open-source pipelines. ElevenLabs and Speechify sell natural voices by subscription or credits; on the open side, the Apache-licensed Kokoro-82M model made local audiobook generation practical, and abogen, Audiblez, and epub2tts turn an EPUB into a narrated audiobook — with chapters and subtitles — on your own machine at zero marginal cost.
 
-- [abogen](https://github.com/denizsafak/abogen) — Open-source (MIT) converter from EPUB/PDF/text to audio with synchronized subtitles, built on Kokoro-82M; word-level captions for English, sentence-level for other languages.
+- [abogen](https://github.com/denizsafak/abogen) — Open-source (MIT) converter from EPUB/PDF/text to audio with synchronized subtitles, built on Kokoro-82M; subtitle granularity is configurable from word-level to sentence-level.
 - [Audiblez](https://github.com/santinic/audiblez) — Open-source CLI/GUI that converts EPUBs into chaptered audiobook files using Kokoro-82M voices; runs locally on CPU or GPU.
 - [ElevenLabs](https://elevenlabs.io) — Commercial TTS with voice cloning, priced by credit-based subscriptions; its free ElevenReader app reads ebooks and PDFs aloud.
 - [epub2tts](https://github.com/aedocw/epub2tts) — Open-source Python pipeline that narrates EPUBs into chaptered M4B audiobooks with a choice of engines (Coqui XTTS, OpenAI TTS, MS Edge voices).
@@ -125,7 +125,7 @@ How to compare models for fiction without trusting vibes: judge-scored writing b
 
 - [EQ-Bench Creative Writing / Longform](https://eqbench.com/creative_writing_longform.html) — LLM-judged longform writing leaderboard tracking slop (over-used "GPT-isms"), repetition, and quality degradation across a long piece; the slop-scoring tool is open source.
 - [Fiction.liveBench](https://fiction.live/stories/Fiction-liveBench-Mar-25-2025/oQdzQvKHw8JyXbN87) — Long-context comprehension benchmark built from real serialized web fiction; tests the same story at increasing context lengths and is re-published periodically with new frontier models.
-- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing) — Each model must weave 10 assigned elements (character, object, tone…) into a short story; scored by head-to-head comparisons across a panel of LLM judges, with position-bias correction.
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing) — Each model must weave 10 assigned elements (character, object, tone…) into a short story; scored by head-to-head story-pair comparisons across a panel of LLM evaluators.
 - [NoCha](https://novelchallenge.github.io/) — Claim-verification benchmark over 67 recently published full-length novels (1,001 true/false minimal pairs); recent books are used deliberately so models cannot rely on training-data memory.
 
 ## Related Resources

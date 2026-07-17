@@ -28,10 +28,10 @@ English version → [README.md](README.md)
 
 - [AI Dungeon](https://aidungeon.com) — Latitude 旗下文字冒险平台，2019 年上线运营至今；免费档 + 订阅解锁更强模型和更长记忆；带剧本（scenario）和多人模式。
 - [AIのべりすと（AI Novelist）](https://ai-novel.com) — Bit192 出品的日语故事生成器，模型用 2TB+ 语料从零训练；浏览器免费可用，付费会员解锁更大模型；按其条款生成内容可商用。
-- [彩云小梦](https://if.caiyunai.com) — 彩云科技的中文续写平台（网页 + iOS/Android），2021 年上线；多种续写风格、世界设定词条、角色对话；免费额度 + 会员订阅（App 内月付 25 元档）。其海外版 Dreamily 已于 2026-04-21 停止服务并删除用户数据。
+- [彩云小梦](https://if.caiyunai.com) — 彩云科技的中文续写平台（网页 + iOS/Android），2021 年上线；多种续写风格、世界设定词条、角色对话；免费额度 + 会员订阅。其海外版 Dreamily 已于 2026-04-21 停止服务并删除用户数据。
 - [Foreverse（新梦）](https://foreverse.cn) — 安卓端阅读器：导入本地 TXT/EPUB 小说后，划选任意段落让 AI 续写、改写、配图，每次续写保留为原文旁的独立分支；BYOK 自带 60+ 供应商 Key（密钥只存本机），也兼容 SillyTavern 角色卡（见[酒馆分类](#酒馆前端与角色扮演平台)）。
-- [Friends & Fables](https://fables.gg) — 浏览器端桌面 RPG：AI 主持人 "Franz" 按 D&D 5e SRD 规则跑团，带战斗地图和长期设定记忆；免费档 + 积分购买高级叙事模型；支持单人或最多六人组队。
-- [NovelAI](https://novelai.net) — 订阅制故事生成器（仅试用无永久免费档），模型全部自研训练；带 lorebook 上下文管理，另附动漫风图像生成。
+- [Friends & Fables](https://fables.gg) — 浏览器端桌面 RPG：AI 主持人 "Franz" 按 D&D 5e SRD 规则跑团，带战斗地图和长期设定记忆；免费档限每日回合数，订阅解锁不限量；支持单人或最多六人组队。
+- [NovelAI](https://novelai.net) — 订阅制故事生成器（仅试用无永久免费档），模型自研训练；带 lorebook 上下文管理，另附动漫风图像生成。
 - [Perchance AI 故事生成器](https://perchance.org/ai-story-generator) — Perchance 生成器平台上的免费故事写手，无需注册登录；逐段生成、逐段引导方向；社区共建、广告支持。
 - [StoryLord](https://www.gennovel.app/zh-cn) — 网页应用：上传已有小说（TXT/DOCX/Markdown），AI 保持原著文风续写或改写；积分制，注册送 100 积分；支持含中文在内的 9 种语言。
 
@@ -42,13 +42,13 @@ English version → [README.md](README.md)
 - [笔灵AI小说](https://ibiling.cn/novel-workbench/) — 笔灵旗下小说工作台：100+ 生成器（大纲 / 设定 / 人物）、长篇编辑器、爆款小说拆解与素材库；可免费试用，完整功能走会员付费。
 - [岱宗写作](https://www.daizongxiezuo.com) — 自称"写作圈的 Cursor"的中文长篇工具：故事圣经 + 滚动摘要 + 知识图谱给 AI 项目级记忆，主打写到 200 章不忘设定；Windows/macOS/Android/iOS 多端客户端；默认模型开箱即用，也支持配置自定义模型。
 - [解忧笔札AI](https://xs.jieyoupu.com) — 面向小说作者的中文助手，核心卖点是伏笔管理（未填坑检测、坑点图谱、填坑建议），另有人物小传、情节结构与节奏分析；在线版会员制，离线买断版 ¥980，支持 Ollama 本地模型（Windows/Mac/Android）。
-- [LocalProse](https://www.localprose.com/en/) — 桌面写作套件（Windows/macOS/Linux）：内置本地模型，首次启动按机器内存自动选档；Pro 为一次性终身买断而非订阅；手机伴侣 App 经局域网 Wi-Fi 同步，不走云端。
-- [马良写作](https://maliangwriter.com) — 中文网文创作平台：基于 LangGraph 的 7 个专业 Agent（主管 / 结构 / 章节蓝图 / 内容生成 / 设定 / 一致性检查 / 纠错）共享知识图谱协作出章；免费注册，按模型调用量以积分计费。
+- [LocalProse](https://www.localprose.com/en/) — 桌面写作套件（Windows/macOS/Linux）：内置本地 AI 引擎，首次启动按机器硬件配置自动适配；Pro 为一次性终身买断而非订阅；手机伴侣 App 经局域网 Wi-Fi 同步，不走云端。
+- [马良写作](https://maliangwriter.com) — 中文网文创作平台：7 个专业 Agent（主管 / 结构 / 章节蓝图 / 内容生成 / 设定 / 一致性检查 / 纠错）共享知识图谱协作出章；免费注册，按模型调用量以积分计费。
 - [Novel Mage](https://novelmage.com) — 离线优先的桌面写作软件（Windows/macOS），$99.99 一次性终身买断；AI 写作 Agent、角色 Codex、故事规划器可全程跑本地模型（Ollama/LM Studio），也可自带 OpenAI/Anthropic/Google Key。
 - [NovelCrafter](https://www.novelcrafter.com) — 订阅制写作工作台，模型接入走 BYOK（自带 Key）；"codex" 设定百科（角色 / 地点 / 世界观）会自动注入提示词。
-- [novelIDE（网文写作IDE）](https://github.com/qq1375828505/novelIDE) — 开源安卓端网文写作 IDE：完全单机运行，主 Agent + 6 个子 Agent（大纲 / 爽点检查 / 水文检测 / 去 AI 味等）调用 40+ 工具，SQLite 记忆图谱、纯本地校对、EPUB 导出。
+- [novelIDE（网文写作IDE）](https://github.com/qq1375828505/novelIDE) — 开源安卓端网文写作 IDE：完全单机运行，主 Agent + 6 个子 Agent（大纲 / 爽点检查 / 水文检测 / 去 AI 味等）调用 40+ 工具，带人物关系图谱、纯本地校对、EPUB 导出。
 - [Sudowrite](https://www.sudowrite.com) — 订阅制小说起草工具，生成按积分计量；Story Bible 管理角色、大纲与文风并驱动整章起草。
-- [蛙趣拼文](https://waqupin.com) — 中文桌面客户端（Windows/macOS），专业版 ¥89/年、定制版终身买断；接任意 OpenAI 兼容 API（DeepSeek / 通义 / 本地 Ollama）；世界观·角色·伏笔三系统联动，支持最多千章的三层大纲生成，数据本地存储。
+- [蛙趣拼文](https://waqupin.com) — 中文桌面客户端，专业版 ¥89/年、定制版终身买断；接任意 OpenAI 兼容 API（DeepSeek / 本地 Ollama 等）；世界观·角色·伏笔三系统联动，支持最多千章的三层大纲生成，数据本地存储。
 
 ## 酒馆前端与角色扮演平台
 
@@ -74,21 +74,21 @@ English version → [README.md](README.md)
 
 ## AI 伴侣
 
-伴侣类 App 优化的不是单局剧情而是一段持续关系：长期记忆、主动消息、语音通话、自拍照、好感度体系。Replika（2017）定义了这个品类；西方以 Kindroid、Nomi 在记忆深度上竞争；国内同赛道是 MiniMax 的星野（海外版 Talkie）、字节跳动的猫箱和阅文系的筑梦岛，普遍叠加抽卡式变现。
+伴侣类 App 优化的不是单局剧情而是一段持续关系：长期记忆、主动消息、语音通话、自拍照、好感度体系。Replika（2017）定义了这个品类；西方以 Kindroid、Nomi 在记忆深度上竞争；国内同赛道是 MiniMax 的星野（海外版 Talkie）、字节跳动的猫箱和阅文系的筑梦岛。
 
 - [Kindroid](https://kindroid.ai) — 伴侣应用（网页/iOS/Android）：持久记忆、语音通话、AI 自拍；订阅制。
 - [猫箱](https://maoxiangai.com) — 字节跳动旗下中文 AI 角色互动 App（原名"话炉"），基于豆包大模型；iOS/Android；免费可用，会员订阅解锁"灵动模式"与更长语音通话时长。
 - [Nomi](https://nomi.ai) — 主打长期记忆与群聊的伴侣应用；免费档 + 订阅。
 - [Replika](https://replika.com) — 2017 年上线，最早出圈的 AI 伴侣之一；3D 形象养成，免费 + Pro 订阅。
-- [Talkie](https://www.talkie-ai.com) — MiniMax 星野的国际版；免费可玩，变现走 Talkie+ 订阅与 "Soul Card" 收集卡牌；iOS 端上架名为 "Talkie Lab"，应用商店下架风波期间网页版持续可用。
+- [Talkie](https://www.talkie-ai.com) — MiniMax 星野的国际版；免费可玩，变现走 Talkie+ 订阅与 "Soul Card" 收集卡牌；原 App 在美区 App Store 下架后，现行 iOS 上架名为 "Talkie Lab"。
 - [星野](https://www.xingyeai.com) — MiniMax（稀宇科技）旗下中文 AI 智能体社区（2023 年 9 月上线，仅移动端无网页聊天）：用户自建智能体的形象、声音、人设并分享到社区，主打沉浸剧情与情感陪伴。
-- [筑梦岛](https://zhumengdao.com) — 阅文系（上海筑梦岛人工智能科技）AI 伴侣 App，2023 年 8 月开测："梦中人"自定义人设、多角色梦屋群聊、小剧场情境对话；iOS/Android，另有微信小程序。
+- [筑梦岛](https://zhumengdao.com) — 阅文系（上海筑梦岛人工智能科技）AI 伴侣 App："梦中人"自定义人设、多角色群聊、小剧场情境对话；iOS/Android。
 
 ## 听书与 TTS
 
 小说听书分两条线：商业阅读器（ElevenLabs、Speechify）按订阅或积分卖自然人声；开源侧，Apache 协议的 Kokoro-82M 模型让本地生成有声书变得可行——abogen、Audiblez、epub2tts 都能在自己电脑上把一本 EPUB 转成带章节、带字幕的有声书，边际成本为零。
 
-- [abogen](https://github.com/denizsafak/abogen) — 开源（MIT）：EPUB/PDF/文本转音频并生成同步字幕，引擎为 Kokoro-82M；英文支持逐词字幕，其他语言按句级。
+- [abogen](https://github.com/denizsafak/abogen) — 开源（MIT）：EPUB/PDF/文本转音频并生成同步字幕，引擎为 Kokoro-82M；字幕粒度可在逐词到逐句之间自选。
 - [Audiblez](https://github.com/santinic/audiblez) — 开源 CLI/GUI：用 Kokoro-82M 音色把 EPUB 转成分章节的有声书文件，本地 CPU/GPU 皆可跑。
 - [ElevenLabs](https://elevenlabs.io) — 商业 TTS：语音克隆、按积分订阅计费；免费的 ElevenReader App 可朗读电子书和 PDF。
 - [epub2tts](https://github.com/aedocw/epub2tts) — 开源 Python 管线：EPUB 转带章节的 M4B 有声书，引擎可选（Coqui XTTS、OpenAI TTS、微软 Edge 音色）。
@@ -125,7 +125,7 @@ English version → [README.md](README.md)
 
 - [EQ-Bench Creative Writing / Longform](https://eqbench.com/creative_writing_longform.html) — LLM 评审的长文写作榜：追踪 slop（AI 高频套话）、复读率和长文后段质量衰减；配套 slop 检测工具开源。
 - [Fiction.liveBench](https://fiction.live/stories/Fiction-liveBench-Mar-25-2025/oQdzQvKHw8JyXbN87) — 用真实连载网文构建的长上下文理解基准：同一故事按不同上下文长度切档测试，定位模型在多长上下文开始"读不懂"；随新模型定期重发。
-- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing) — 命题写作：每个模型必须把 10 个指定要素（角色 / 物件 / 基调……）织进一篇短故事；由多个 LLM 评审两两对比打分，并做位置偏差校正。
+- [LLM Creative Story-Writing Benchmark](https://github.com/lechmazur/writing) — 命题写作：每个模型必须把 10 个指定要素（角色 / 物件 / 基调……）织进一篇短故事；由多个 LLM 评审对同题故事两两对比打分。
 - [NoCha](https://novelchallenge.github.io/) — 基于 67 本新近出版长篇小说的论断核验基准（1,001 组真 / 假最小对）；刻意选新书，堵死模型靠训练数据背答案的路。
 
 ## 延伸资源
