@@ -68,6 +68,7 @@ Author-facing suites wrap an LLM in the scaffolding long-form fiction needs — 
 - [Chai](https://chai-research.com) — Mobile-first character chat app (iOS/Android) with user-created characters; freemium with subscription tiers.
 - [Character.AI](https://character.ai) — Closed platform running proprietary in-house models; free tier plus a c.ai+ subscription; web and mobile apps.
 - [Chub](https://chub.ai) — Community repository of user-made character cards with a public API that other frontends import from; browsing and card hosting are free, with optional subscriptions for its built-in Venus chat models.
+- [Harem Mate](https://harem.archerlab.dev) - Browser-based AI character chat and roleplay in Korean, English, and Japanese, for adults aged 19+; free to use without signup (subject to usage limits), with up to 5 custom characters.
 - [JanitorAI](https://janitorai.com) — Hosted card platform with a free in-house model (JanitorLLM) and a documented proxy system for your own API key (OpenRouter, DeepSeek, etc.); optional Pro subscription.
 - [PygmalionAI](https://pygmalion.chat) — Self-funded open project: free hosted chat plus open-weight roleplay models (Pygmalion-3 12B, Eleusis-12B, Apache-2.0) released on Hugging Face.
 - [SpicyChat](https://spicychat.ai) — Hosted roleplay platform with user-created characters; free tier plus subscriptions that remove queues; adult content allowed behind age verification.

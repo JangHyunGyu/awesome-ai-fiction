@@ -68,6 +68,7 @@ English version → [README.md](README.md)
 - [Chai](https://chai-research.com) — 移动优先的角色聊天 App（iOS/Android），角色由用户创建；免费 + 订阅档。
 - [Character.AI](https://character.ai) — 封闭平台，跑自研专有模型；免费可用，c.ai+ 订阅解锁加速与新功能；网页 + 移动 App。
 - [Chub](https://chub.ai) — 用户自制角色卡的社区仓库，公开 API 被多家前端用作导入源；卡片托管免费，站内聊天（Chub Venus）为付费增值。
+- [Harem Mate](https://harem.archerlab.dev) - 浏览器内使用的 AI 角色聊天与角色扮演服务，支持韩语、英语、日语，面向 19 岁以上成人；免费使用且无需注册（有用量限制），最多可创建 5 个自定义角色。
 - [JanitorAI](https://janitorai.com) — 托管卡片平台：免费自研模型（JanitorLLM）打底，官方文档化的 proxy 通道支持自带 API Key（OpenRouter、DeepSeek 等）；另有 Pro 订阅。
 - [PygmalionAI](https://pygmalion.chat) — 自筹资金的开源项目：托管聊天站免费，同时在 Hugging Face 放出开源权重扮演模型（Pygmalion-3 12B、Eleusis-12B，Apache-2.0）。
 - [SpicyChat](https://spicychat.ai) — 托管角色扮演平台，角色用户自建；免费档 + 去排队订阅；成人内容需年龄验证后开放。
